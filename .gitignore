@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Segredos e notebooks
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+
+# Editor e sistema
+.vscode/
+.idea/
+.DS_Store
