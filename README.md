@@ -19,7 +19,7 @@ Gêmeo digital de um sensor climático virtual (ENV-01). Os dados horários vêm
 ## Estrutura
 
 ```
-Climate_digital_twin2.0/
+climate-digital-twin/
 ├── data/
 │   └── weather_data.csv
 ├── climate_twin/
